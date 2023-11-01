@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 
@@ -11,6 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Welcome to Dealers Yard.
+Welcome to Artisan Elevated Limited.
 
-We are working on this page. In the meantime, check out our website [https://dealersyard.com](https://dealersyard.com)
+## Our Applications
+1. [Dealers Yard](https://dealersyard.com) - An automotive marketplace for Kenyans.
+
+## Our work
+1. [Upturn Farming Limited](https://upturnfarming.com) - How farmers yield and market high-quality avocados.
+2. [Mental Health Kenya](https://mentalhealthkenya.org) - Promotion of mental health and prevention of mental illnesses
+3. [Gray Ark Ltd](https://grayark.com/) - Surgical Supplier in Kenya (Ongoing)
